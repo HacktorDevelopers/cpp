@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello I have been modified"<<endl;
+	//cout << "Hello I have been modified"<<endl;
 	cout << "Hello world" << endl;
 	int year_of_birth, age;
 
